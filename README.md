@@ -8,6 +8,6 @@ Everything you need to recreate this project is on the jupyter notebook. Everyth
 This project is updated to be compatible with PyTorch 0.4.0
 
 
-Read more about this project on my blog: 
+Read more about this project on my blog: https://medium.com/@viritaromero/revolutionizing-the-field-of-dining-in-mexico-teamole-app-e9ae160df4b8
 
-Paper: 
+Paper implementing the same idea: https://drive.google.com/viewerng/viewer?url=https://arxiv.org/ftp/arxiv/papers/1612/1612.00983.pdf
