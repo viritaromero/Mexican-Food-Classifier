@@ -10,8 +10,6 @@ I have the idea to develop an AI app than can classify different types of mexica
 
 This project idea came to my mind because it can help to the tourism sector in Mazatlán, Mexico. Tourists can take pictures of the food they are getting and identify what are them and even get a recipe! By doing these, we are promoting the food made in Mexico and helping the tourism sector by bringing more  interested people to visit our beautiful town!
 
-I'll train this image classifier to recognize 9 different mexican food dishes given an image.This can be implemented in a phone app that tells you the type of food your camera is looking at.
-
 <B> Working on a "Mexican Food Dataset" </B>
 
 I used the Google Images Download library.  A Python Script for 'searching' and 'downloading' hundreds of Google images to the local hard disk!. You can use this library with the following instruction:
