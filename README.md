@@ -41,6 +41,7 @@ Shrimp Ceviche is very popular in the Pacific coast region, especifically, Mazat
 This ceviche is typical of Mazatlan, Sinaloa Mexico. It's called Ceviche de Sierra over there; Sierra is just another name for Spanish Mackerel. We prepare this fish by cooking it with the acidity of lime juice. Perfect for hot days!
 
 **Chilaquiles**
+
 <img src="https://www.cocinavital.mx/wp-content/uploads/2017/11/chilaquiles-rojos-paso-a-paso.jpg">
 
 Chilaquiles are a breakfast staple in Mexico. There are red chilaquiles and green chilaquiles, depending on the type of salsa that you decide to make. Chilaquiles start with a bed of freshly made corn tortilla chips, which can be either baked or fried.
