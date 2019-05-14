@@ -6,14 +6,14 @@ Mexican cuisine is one of the most popular ones in the world. Being from Mexico,
 
 Stop by your local Mexican restaurant and you’ll probably find sky-high piles of nachos smothered in cheese and colossal fishbowl margaritas. But true Mexican food couldn’t be more different.
 
-I have the idea to develop an AI app than can classify different types of mexican food and even give you the recipe to make it by your own! The goal of "TeAmole" is to classify 9 types of mexican mexican food by looking a picture.
+I have the idea to develop an AI app than can classify different types of mexican food and even give you the recipe to make it by your own! The goal of "TeAmole" is to classify 9 types of mexican food by looking a picture.
 
-This project idea came to my mind because it can help to the tourism sector in Mazatlán, Mexico. Tourists can take pictures of the food they are getting and identify what are them and even get a recipe! By doing these, we are promoting the food made in Mexico and helping the tourism sector by bringing more  interested people to visit our beautiful town!
+This project idea came to my mind because it can help to the tourism sector in Mazatlán, Mexico. Tourists can take pictures of the food they are getting and identify what are them and even get a recipe! By doing these, we are promoting the food made in Mexico and helping the tourism sector by bringing more interested people to visit our beautiful town!
 
 <B> Working on a "Mexican Food Dataset" </B>
 
 I used the Google Images Download library.  A Python Script for 'searching' and 'downloading' hundreds of Google images to the local hard disk!. You can use this library with the following instruction:
-
+```
 pip install google_images_download #Installing the package
 
 from google_images_download import google_images_download   #importing the library
@@ -23,7 +23,7 @@ response = google_images_download.googleimagesdownload()   #class instantiation
 arguments = {"keywords":"Polar bears,baloons,Beaches","limit":20,"print_urls":True}   #creating list of arguments
 paths = response.download(arguments)   #passing the arguments to the function
 print(paths)   #printing absolute paths of the downloaded images
-
+```
 I collected images using this library and uploaded a food dataset to Google Drive.
 
 This app will identify 9 different kind of mexican food dishes:
@@ -42,7 +42,7 @@ This app will identify 9 different kind of mexican food dishes:
 
 ![alt text](https://cdn.kiwilimon.com/recetaimagen/28638/th5-640x426-28924.jpg)
 
-If you love ceviche, then Mexico's Shrimp Aguachile is for you. Traditionally made with raw shrimp, lime juice, chilies, cucumber, and onion, it's served immediately while still totally raw, unlike most other ceviche recipes. This dish is very popular in  Sinaloa, México, and it's unbelievably delicious given its simplicity.
+If you love ceviche, then Mexico's Shrimp Aguachile is for you. Traditionally made with raw shrimp, lime juice, chilies, cucumber, and onion, it's served immediately while still totally raw, unlike most other ceviche recipes. This dish is very popular in Sinaloa, México, and it's unbelievably delicious given its simplicity.
 
 **Callos de Hacha**
 
